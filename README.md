@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out [hietalajulius.com](https://hietalajulius.com) for what I've been up to lately!
+Check out [juliushietala.com](https://juliushietala.com) for what I've been up to lately!
 
 <!--
 **hietalajulius/hietalajulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
