@@ -1,6 +1,6 @@
 I'm Julius, a robotics and machine learning engineer in San Francisco.
 
-My work spans reinforcement learning, sim-to-real transfer, and deploying learned policies in production. At Nimble Robotics, I developed RL policies and built the path from Python training to Rust deployment.
+I’m a software engineer at Nimble Robotics. My work there spans reinforcement learning, Python-to-Rust policy deployment, and inference optimization. My research background is in robot learning and sim-to-real transfer.
 
 **Selected work**
 
